@@ -1,0 +1,11 @@
+<html>
+<head>
+<title> Marquee Tag <title>
+</head>
+<body>
+<h1> Welcome to my Website </h1>
+<marquee behaviour="scroll" direction="right" bgcolor="yellow" 
+scrollamount="10" fast scrolling text to the right with yellow background </marquee>
+<marquee behaviour ="alternate" direction="up" scrollamount="5"> this text scrolls up and down </marquee.
+</body>
+</html>

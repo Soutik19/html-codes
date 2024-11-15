@@ -1,0 +1,27 @@
+<html> 
+<body>
+<table>
+<table border=1>
+<tr>
+     <th> student name </th>
+     <th. student address </th>
+     <th> Contact number </th>
+</tr>
+<tr>
+      <td> Piyush </td>
+      <td> Pune </td>
+      <td> 8124XXXXXX</td>
+</tr>
+<tr>
+      <td> Nikhil </td>
+      <td> Nagpur </td>
+      <td> 8627XXXXXX</td>
+</tr>
+<tr>
+      <td> Rohit </td>
+      <td> Satara </td>
+      <td> 6356XXXXXX</td>
+</tr>
+</table>
+</body>
+</html>

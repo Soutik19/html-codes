@@ -1,0 +1,10 @@
+<HTML>
+<HEAD>
+   <title> polynomial expression </title>
+</head>
+<body>
+     <h1> a<sub>1</sub>x<sup>2</sup>+
+          a<sub>2</sub>x<sup>4</sup>+
+          a<sub>3</sub>x<sup>6</sup>
+</body>
+</html>

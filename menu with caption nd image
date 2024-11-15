@@ -1,0 +1,21 @@
+<html> 
+<head>
+<title> Menu </title>
+</head>
+<body>
+<h1> our menu </h1>
+
+<div>
+<img src="HOTEL MENU">
+g=tbn: "hdghgdhdgsjdgsjg" alt="item 1">
+<p> Happiness is a slice of burger </p>
+</div> 
+
+<div>
+<img src="HOTEL MENU">
+g=tbn: "gdhdhjdgdgd" alt="item 2">
+<p> When life throw you </p>
+</div>
+
+</body>
+</html>

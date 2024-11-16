@@ -1,0 +1,9 @@
+<html>
+<body>
+<h1> font tag </h1> <br>
+<font size="6" face="arial" color="blue" <b> use the
+font tag </b> </font> <br>
+<font size="6" face="arial" color="white" <b> types of
+the font </b> </font> <br>
+</body>
+</html>
